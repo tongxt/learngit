@@ -2,8 +2,4 @@ G111
 222
 odify by dev
 add by test2
-<<<<<<< HEAD
-Creating a new branch is quick AND simple.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> feature1
+Creating a new branch is quick AND simple
